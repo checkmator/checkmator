@@ -8,4 +8,4 @@ In my downtime, I'm likely immersed in the latest cybersecurity research, master
 
 If you share an interest in cybersecurity, need assistance with a security-related project, or just wish to exchange ideas and experiences, please feel free to reach out.
 
-Remember, we're safest when we're vigilant. Stay safe.
+Remember, we're safest when we're vigilant. 
